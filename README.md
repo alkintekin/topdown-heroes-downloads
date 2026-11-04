@@ -1,28 +1,27 @@
 # TOPDOWN HEROES — Oyun İndir
 
-**TOPDOWN HEROES** oyununu ücretsiz denemek isteyen arkadaşlar için resmi Windows test sürümü indirme alanı.
+**Windows test sürümünü ücretsiz indir.** Kaynak kodu gizli tutulur.
 
-## <a href="https://github.com/alkintekin/topdown-heroes-downloads/releases">EN GÜNCEL TEST SÜRÜMÜNÜ İNDİR</a>
+## ⬇️ [SON TEST SÜRÜMÜNÜ İNDİR — v0.4.7-alpha ](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/v0.4.7-alpha/TOPDOWN_HEROES_v0.4.7_FRIENDS_20261104_150306.zip)
 
-Yukarıdaki bağlantıya tıkla, **en üstteki sürümü** aç ve **Assets** bölümündeki `TOPDOWN_HEROES_..._FRIENDS_...zip` dosyasını indir.
+**Bu bağlantı doğrudan en güncel Windows ZIP paketini indirir.**
+Bu sayfada yalnızca son sürüm ana indirme bağlantısı olarak gösterilir.
 
-**Bu bağlantı değişmez:** Yeni test sürümleri yayımlandıkça aynı Releases sayfasında en üstte görünür.
+### 📁 [ESKİ TEST SÜRÜMLERİ ARŞİVİ](arsiv/README.md)
+
+Eski sürümleri denemek isteyenler yukarıdaki arşiv bağlantısından istedikleri sürümü indirebilir.
+Yeni sürüm yayımlandığında bir önceki sürüm arşiv listesine otomatik geçer.
 
 ### Kurulum
 
-1. ZIP dosyasını indir ve **tamamını bir klasöre çıkart**.
-2. `BASLAT_TOPDOWN_HEROES.cmd` dosyasını çalıştır.
-3. Gölge Girişi senaryosunu doğrudan açmak için `BASLAT_GOLGE_GIRISI.cmd` dosyasını kullan.
-4. Kontroller ve bilgiler ZIP içindeki `OKU_BENI.txt` dosyasında bulunur.
+1. Yukarıdaki **SON TEST SÜRÜMÜNÜ İNDİR** bağlantısından ZIP dosyasını indir.
+2. ZIP'in tamamını bir klasöre çıkart (ZIP içinden çalıştırma).
+3. `BASLAT_TOPDOWN_HEROES.cmd` dosyasını aç.
+4. Gölge Girişi için `BASLAT_GOLGE_GIRISI.cmd` kullanılabilir.
 
-Windows 10/11 (64-bit). Godot kurulumu gerekmez. İndirdikten sonra çevrimdışı oynanabilir.
+Windows 10/11 (64-bit). Godot kurulumu gerekmez. Oyun test aşamasındadır; çevrimiçi co-op henüz yoktur.
+Uygulama dijital imzalı değildir; yalnızca güvenilir bağlantıdan indir.
 
-### Bilmen gerekenler
+**Sürüm notları ve dosya SHA-256:** [Mevcut sürümün ayrıntıları](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/v0.4.7-alpha).
 
-- Oyun hâlâ geliştirme aşamasındadır; bug ve eksikler olabilir.
-- Şu an çevrimiçi co-op desteği yoktur.
-- Uygulama dijital imzalı değildir; Windows güvenlik uyarısı gösterebilir. Yalnızca güvendiğin kaynaktan indir.
-- İndirilen dosyanın SHA-256 bütünlük kodu her sürümün açıklamasındadır.
-- Bu depoda **yalnızca oynanabilir test paketleri ve indirme bilgileri** bulunur; geliştirme kaynak kodu ayrı ve gizlidir.
-
-**Geri bildirim:** Test sırasında hataları veya geliştirme önerilerini oyun geliştiricisine iletebilirsin.
+Arkadaşlarına bu deponun **ana sayfasının** bağlantısını gönder: https://github.com/alkintekin/topdown-heroes-downloads
