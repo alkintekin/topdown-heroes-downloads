@@ -2,7 +2,7 @@
 
 **Windows test sürümünü ücretsiz indir.** Kaynak kodu gizli tutulur.
 
-## ⬇️ [SON TEST SÜRÜMÜNÜ İNDİR — v0.4.7-alpha ](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/v0.4.7-alpha/TOPDOWN_HEROES_v0.4.7_FRIENDS_20261104_150306.zip)
+## ⬇️ [SON TEST SÜRÜMÜNÜ İNDİR — v0.4.8-alpha ](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/v0.4.8-alpha/TOPDOWN_HEROES_v0.4.8_FRIENDS_20261104_181026.zip)
 
 **Bu bağlantı doğrudan en güncel Windows ZIP paketini indirir.**
 Bu sayfada yalnızca son sürüm ana indirme bağlantısı olarak gösterilir.
@@ -22,6 +22,6 @@ Yeni sürüm yayımlandığında bir önceki sürüm arşiv listesine otomatik g
 Windows 10/11 (64-bit). Godot kurulumu gerekmez. Oyun test aşamasındadır; çevrimiçi co-op henüz yoktur.
 Uygulama dijital imzalı değildir; yalnızca güvenilir bağlantıdan indir.
 
-**Sürüm notları ve dosya SHA-256:** [Mevcut sürümün ayrıntıları](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/v0.4.7-alpha).
+**Sürüm notları ve dosya SHA-256:** [Mevcut sürümün ayrıntıları](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/v0.4.8-alpha).
 
 Arkadaşlarına bu deponun **ana sayfasının** bağlantısını gönder: https://github.com/alkintekin/topdown-heroes-downloads
