@@ -2,6 +2,19 @@
 
 **Windows test sürümünü ücretsiz indir.** Kaynak kodu gizli tutulur.
 
+## 🆕 [YENİ CO-OP TEST SÜRÜMÜNÜ İNDİR — 16 Kasım 2026](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/claude-test-20261116/TOPDOWN_HEROES_CLAUDE_TEST_20261116_153848.zip)
+
+**En yeni deneme sürümü.** Arkadaşınla aynı oyunda, tam oyun kurallarıyla oynanan yeni co-op'u ve oyun içi STAT DÜZENLE ekranını içerir. Aşağıdaki v0.4.12 sürümündeki her şey de içindedir.
+
+- İki oyuncuda da **bu ZIP** olmalı. Açılış aynı: ZIP'i klasöre çıkar, `BASLAT_TOPDOWN_HEROES.cmd` dosyasını aç.
+- Ana menü → **YENİ CO-OP | ODA KUR / KATIL**. Oda kuranın ekranında yazan adresi katılan kişi yazar.
+- Aynı evde (aynı Wi-Fi) doğrudan çalışır. Farklı evlerde şimdilik modem ayarı (UDP 28750) gerekir.
+- Yeni co-op henüz iki ayrı bilgisayarda denenmedi; sorun görürsen haber ver. [Ayrıntılar](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/claude-test-20261116)
+
+Aşağıdaki bölüm bir önceki sürümdür (v0.4.12); yeni co-op onda yoktur.
+
+---
+
 ## ⬇️ [SON TEST SÜRÜMÜNÜ İNDİR — v0.4.12-alpha ](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/v0.4.12-alpha/TOPDOWN_HEROES_v0.4.12_FRIENDS_20261107_133059.zip)
 
 **Bu bağlantı doğrudan en güncel Windows ZIP paketini indirir.**
