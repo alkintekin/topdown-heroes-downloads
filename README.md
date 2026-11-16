@@ -2,14 +2,15 @@
 
 **Windows test sürümünü ücretsiz indir.** Kaynak kodu gizli tutulur.
 
-## 🆕 [YENİ CO-OP TEST SÜRÜMÜNÜ İNDİR — 16 Kasım 2026](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/claude-test-20261116/TOPDOWN_HEROES_CLAUDE_TEST_20261116_153848.zip)
+## 🆕 [YENİ CO-OP TEST SÜRÜMÜNÜ İNDİR — 16 Kasım 2026 (C)](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/claude-test-20261116c/TOPDOWN_HEROES_CLAUDE_TEST_20261116_204439.zip)
 
-**En yeni deneme sürümü.** Arkadaşınla aynı oyunda, tam oyun kurallarıyla oynanan yeni co-op'u ve oyun içi STAT DÜZENLE ekranını içerir. Aşağıdaki v0.4.12 sürümündeki her şey de içindedir.
+**En yeni deneme sürümü.** Arkadaşınla aynı oyunda, tam oyun kurallarıyla co-op: **modem ayarı gerekmez**, her oyuncuya **3 AI askerlik manga**, **Arena** veya **Gölge Girişi** haritası. Oyun içi STAT DÜZENLE ekranı ve aşağıdaki v0.4.12 sürümündeki her şey de içindedir.
 
-- İki oyuncuda da **bu ZIP** olmalı. Açılış aynı: ZIP'i klasöre çıkar, `BASLAT_TOPDOWN_HEROES.cmd` dosyasını aç.
-- Ana menü → **YENİ CO-OP | ODA KUR / KATIL**. Oda kuranın ekranında yazan adresi katılan kişi yazar.
-- Aynı evde (aynı Wi-Fi) doğrudan çalışır. Farklı evlerde şimdilik modem ayarı (UDP 28750) gerekir.
-- Yeni co-op henüz iki ayrı bilgisayarda denenmedi; sorun görürsen haber ver. [Ayrıntılar](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/claude-test-20261116)
+- İki oyuncuda da **bu ZIP** olmalı (lobide `Surum: CLAUDE TEST 2026-11-16 C` yazar). ZIP'i klasöre çıkar, `BASLAT_TOPDOWN_HEROES.cmd` dosyasını aç.
+- İkiniz de ana menü → **YENİ CO-OP**. Ekrandaki **kodunuzu** birbirinize gönderin, arkadaşının kodunu yapıştırın.
+- Biriniz haritayı seçip **ODA KUR**'a, diğeriniz **ODAYA KATIL**'a bassın. Aynı evde de farklı evlerde de böyle.
+- Manga tuşları, gizlilik tuşları ve bilinen eksikler: [Ayrıntılar](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/claude-test-20261116c) (ZIP içindeki `OKU_BENI.txt` dosyasında da yazar).
+- Farklı evler arası bağlantı henüz gerçek iki evde denenmedi; sorun görürsen haber ver.
 
 Aşağıdaki bölüm bir önceki sürümdür (v0.4.12); yeni co-op onda yoktur.
 
