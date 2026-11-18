@@ -2,14 +2,14 @@
 
 **Windows test sürümünü ücretsiz indir.** Kaynak kodu gizli tutulur.
 
-## 🆕 [YENİ TEST SÜRÜMÜNÜ İNDİR — 19 Kasım 2026 (O)](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/claude-test-20261119o/TOPDOWN_HEROES_CLAUDE_TEST_20261119_004020.zip)
+## 🆕 [YENİ TEST SÜRÜMÜNÜ İNDİR — 19 Kasım 2026 (P)](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/claude-test-20261119p/TOPDOWN_HEROES_CLAUDE_TEST_20261119_013024.zip)
 
 **En yeni deneme sürümü.** Yeni: **AÇIK DÜNYA: KASABA** — yollar, evler, dükkânlar, depo ve tel örgülü düşman karakolu; içine girilebilen binalar (çift kanatlı kapılar, pencereler, çatı, siper olan eşyalar). Tek başına (**ÇATIŞMA** / **SIZMA**) veya arkadaşınla **co-op** oynanır. Ayrıca **BİNA EDİTÖRÜ**, co-op'ta **3 AI askerlik manga**, **Arena** ve **Gölge Girişi** haritaları, oyun içi STAT DÜZENLE ve aşağıdaki v0.4.12 sürümündeki her şey içindedir.
 
 - ZIP'i klasöre çıkar, `BASLAT_TOPDOWN_HEROES.cmd` dosyasını aç. Kasaba'ya doğrudan girmek için: `BASLAT_ACIK_DUNYA_KASABA.cmd`.
-- Co-op: iki oyuncuda da **bu ZIP** olmalı (lobide `Surum: CLAUDE TEST 2026-11-19 O` yazar). İkiniz de ana menü → **YENİ CO-OP**. Ekrandaki **kodunuzu** birbirinize gönderin, arkadaşının kodunu yapıştırın.
+- Co-op: iki oyuncuda da **bu ZIP** olmalı (lobide `Surum: CLAUDE TEST 2026-11-19 P` yazar). İkiniz de ana menü → **YENİ CO-OP**. Ekrandaki **kodunuzu** birbirinize gönderin, arkadaşının kodunu yapıştırın.
 - Biriniz haritayı seçip (**AÇIK DÜNYA: KASABA** dahil) **ODA KUR**'a, diğeriniz **ODAYA KATIL**'a bassın. Modem ayarı gerekmez.
-- Tuşlar ve bilinen eksikler: [Ayrıntılar](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/claude-test-20261119o) (ZIP içindeki `OKU_BENI.txt` dosyasında da yazar).
+- Tuşlar ve bilinen eksikler: [Ayrıntılar](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/claude-test-20261119p) (ZIP içindeki `OKU_BENI.txt` dosyasında da yazar).
 - Farklı evler arası bağlantı henüz gerçek iki evde denenmedi; sorun görürsen haber ver.
 
 Aşağıdaki bölüm bir önceki sürümdür (v0.4.12); yeni co-op onda yoktur.
