@@ -2,14 +2,14 @@
 
 **Windows test sürümünü ücretsiz indir.** Kaynak kodu gizli tutulur.
 
-## 🆕 [YENİ TEST SÜRÜMÜNÜ İNDİR — 21 Kasım 2026 (M)](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/claude-test-20261121m/TOPDOWN_HEROES_CLAUDE_TEST_20261121_171003.zip)
+## 🆕 [YENİ TEST SÜRÜMÜNÜ İNDİR — 22 Kasım 2026 (N)](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/claude-test-20261122n/TOPDOWN_HEROES_CLAUDE_TEST_20261122_021536.zip)
 
 **En yeni deneme sürümü.** Bu sürümde yeni: bina editöründe **temeli elle çizme**, masa, sandalyeler, **ödeme kasası** (para ve değerliler), seçilebilir kasa / tezgâh görünümleri; harita editöründe **araçlar** (park halinde 9 model), çete üyelerine **tek tek plan**, sivillere **ev + iş yeri** seçimi, karakterlere **topluluk** seçimi. Önceki sürümlerle gelenler: **KARAKTER EDİTÖRÜ** ve günlük plan, editör panelleri ekrana sığıyor, bina editörüne **dükkân eşyaları** (çelik kasa, camlı sergi tezgâhları, metal dolap, buzdolabı), yeni zeminler, **perdeli kapı** ve şehirde **meslek sahibi siviller**. Ayrıca: **AÇIK DÜNYA: KASABA** — yollar, evler, dükkânlar, depo ve tel örgülü düşman karakolu; içine girilebilen binalar (çift kanatlı kapılar, pencereler, çatı, siper olan eşyalar). Tek başına (**ÇATIŞMA** / **SIZMA**) veya arkadaşınla **co-op** oynanır. Ayrıca **BİNA EDİTÖRÜ**, co-op'ta **3 AI askerlik manga**, **Arena** ve **Gölge Girişi** haritaları, oyun içi STAT DÜZENLE ve aşağıdaki v0.4.12 sürümündeki her şey içindedir.
 
 - ZIP'i klasöre çıkar, `BASLAT_TOPDOWN_HEROES.cmd` dosyasını aç. Kasaba'ya doğrudan girmek için: `BASLAT_ACIK_DUNYA_KASABA.cmd`.
-- Co-op: iki oyuncuda da **bu ZIP** olmalı (lobide `Surum: CLAUDE TEST 2026-11-21 M` yazar). İkiniz de ana menü → **YENİ CO-OP**. Ekrandaki **kodunuzu** birbirinize gönderin, arkadaşının kodunu yapıştırın.
+- Co-op: iki oyuncuda da **bu ZIP** olmalı (lobide `Surum: CLAUDE TEST 2026-11-22 N` yazar). İkiniz de ana menü → **YENİ CO-OP**. Ekrandaki **kodunuzu** birbirinize gönderin, arkadaşının kodunu yapıştırın.
 - Biriniz haritayı seçip (**AÇIK DÜNYA: KASABA** dahil) **ODA KUR**'a, diğeriniz **ODAYA KATIL**'a bassın. Modem ayarı gerekmez.
-- Tuşlar ve bilinen eksikler: [Ayrıntılar](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/claude-test-20261121m) (ZIP içindeki `OKU_BENI.txt` dosyasında da yazar).
+- Tuşlar ve bilinen eksikler: [Ayrıntılar](https://github.com/alkintekin/topdown-heroes-downloads/releases/tag/claude-test-20261122n) (ZIP içindeki `OKU_BENI.txt` dosyasında da yazar).
 - Farklı evler arası bağlantı henüz gerçek iki evde denenmedi; sorun görürsen haber ver.
 
 Aşağıdaki bölüm bir önceki sürümdür (v0.4.12); yeni co-op onda yoktur.
