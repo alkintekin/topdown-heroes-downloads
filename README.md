@@ -2,7 +2,7 @@
 
 **Windows test sürümünü ücretsiz indir.** Kaynak kodu gizli tutulur.
 
-## 🆕 [YENİ TEST SÜRÜMÜNÜ İNDİR — 26 Kasım 2026 (U: hiz, kilit / maymuncuk, odalar, is kapasitesi, sehir hayati)](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/claude-test-20261126u/TOPDOWN_HEROES_CLAUDE_TEST_20261126_204900.zip)
+## 🆕 [YENİ TEST SÜRÜMÜNÜ İNDİR — 26 Kasım 2026 (U: hiz, kilit / maymuncuk, odalar, is kapasitesi, sehir hayati)](https://github.com/alkintekin/topdown-heroes-downloads/releases/download/claude-test-20261127v/TOPDOWN_HEROES_CLAUDE_TEST_20261127_171245.zip)
 
 **En yeni deneme sürümü.** Bu sürümde yeni: bina editöründe **temeli elle çizme**, masa, sandalyeler, **ödeme kasası** (para ve değerliler), seçilebilir kasa / tezgâh görünümleri; harita editöründe **araçlar** (park halinde 9 model), çete üyelerine **tek tek plan**, sivillere **ev + iş yeri** seçimi, karakterlere **topluluk** seçimi. Önceki sürümlerle gelenler: **KARAKTER EDİTÖRÜ** ve günlük plan, editör panelleri ekrana sığıyor, bina editörüne **dükkân eşyaları** (çelik kasa, camlı sergi tezgâhları, metal dolap, buzdolabı), yeni zeminler, **perdeli kapı** ve şehirde **meslek sahibi siviller**. Ayrıca: **AÇIK DÜNYA: KASABA** — yollar, evler, dükkânlar, depo ve tel örgülü düşman karakolu; içine girilebilen binalar (çift kanatlı kapılar, pencereler, çatı, siper olan eşyalar). Tek başına (**ÇATIŞMA** / **SIZMA**) veya arkadaşınla **co-op** oynanır. Ayrıca **BİNA EDİTÖRÜ**, co-op'ta **3 AI askerlik manga**, **Arena** ve **Gölge Girişi** haritaları, oyun içi STAT DÜZENLE ve aşağıdaki v0.4.12 sürümündeki her şey içindedir.
 
